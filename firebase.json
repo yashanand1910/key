@@ -10,7 +10,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/pub.key"
+        "destination": "/key.txt"
       }
     ]
   }
