@@ -5,10 +5,11 @@
   "targets": {
     "yashanand-dev": {
       "hosting": {
-        "resume": [
+        "key": [
           "key-yashanand-dev"
         ]
       }
     }
-  }
+  },
+  "etags": {}
 }
