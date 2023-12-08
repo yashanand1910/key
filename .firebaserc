@@ -3,12 +3,12 @@
     "default": "yashanand-dev"
   },
   "targets": {
-      "yashanand-dev": {
-        "hosting": {
-          "resume": [
-            "key-yashanand-dev"
-          ]
-        }
+    "yashanand-dev": {
+      "hosting": {
+        "resume": [
+          "key-yashanand-dev"
+        ]
       }
     }
+  }
 }
